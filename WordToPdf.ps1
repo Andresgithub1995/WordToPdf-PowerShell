@@ -2,8 +2,8 @@
 # CONFIGURACIÓN (solo cambias esto)
 # =========================
 
-$folder  = "C:\Users\andre\OneDrive - UNIR\2026 - 1\Seguridad en los Sistemas de Informacion"
-$docName = "Actividad2.docx"
+$folder  = "C:\Users\"
+$docName = ".docx"
 
 # =========================
 # LÓGICA (no tocar)
@@ -39,3 +39,4 @@ finally {
 
 Write-Host "✅ PDF creado en:"
 Write-Host $outputPdf
+
